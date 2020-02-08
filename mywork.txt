@@ -1,0 +1,21 @@
+Project:Fitness Tracker
+Role:Team Member
+Emp Id:844567
+
+Team Members:
+844515(Team Lead)
+844525
+844524
+
+My Work:
+1.To develop ViewAppointment page.
+2.I also developed few fields in TraianerAppointment page i.e. Address form,Appointment table.
+
+My development files:
+1.viewAppoint.html
+2.Part of trainerAppointment.html
+  (a)appointmenttable.html
+  (b)addressfield.html
+
+
+
